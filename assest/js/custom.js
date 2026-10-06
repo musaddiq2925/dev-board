@@ -54,3 +54,8 @@ button.addEventListener('click', function () {
     }
 
 });
+
+//
+document.getElementById('banner-card').addEventListener('click', function () {
+    window.location.href = 'blog.html';
+});
